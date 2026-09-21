@@ -1,0 +1,15 @@
+curl -s https://api.github.com/repos/ayaanchowhan09/expressBookReviews
+
+{
+  "full_name": "ayaanchowhan09/expressBookReviews",
+  "private": false,
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "private": false
+  },
+  "source": {
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "private": false
+  }
+}
