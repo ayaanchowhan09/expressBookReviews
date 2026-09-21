@@ -1,0 +1,3 @@
+curl.exe -sS -b q8-cookie.txt -X PUT http://127.0.0.1:5000/customer/auth/review/1 -H "Content-Type: application/json" --data-raw '{"review":"A timeless and powerful novel."}'
+
+{"message":"Review added or updated successfully","reviews":{"aayanbookuser20260922":"A timeless and powerful novel."}}

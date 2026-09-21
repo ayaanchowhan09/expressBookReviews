@@ -1,0 +1,3 @@
+curl.exe -sS -X POST http://127.0.0.1:5000/register -H "Content-Type: application/json" --data-raw '{"username":"aayanbookuser20260922","password":"BookPass2026!"}'
+
+{"message":"User successfully registered. Now you can login"}
